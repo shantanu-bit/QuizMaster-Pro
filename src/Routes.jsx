@@ -9,7 +9,7 @@ import QuizSetup from "./pages/quiz-setup";
 
 const Routes = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/QuizMaster-Pro">
       <ErrorBoundary>
         <ScrollToTop />
         <RouterRoutes>
