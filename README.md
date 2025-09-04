@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
@@ -105,3 +106,6 @@ npm run build
 - Styled with Tailwind CSS
 
 Built with ❤️ on Rocket.new
+=======
+# QuizMaster-Pro
+>>>>>>> b54f4a97656a968a0effa6341d52d78f8308886f
